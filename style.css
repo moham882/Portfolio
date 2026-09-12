@@ -181,8 +181,36 @@ main a:hover {
     h2 {
         font-size: 26px;
     }
+/* =========================
+   Skills Section
+   ========================= */
 
+#skills {
+    background: #f5f7fb;
+    border: 1px solid #dfe5ee;
+    border-radius: 10px;
+    padding: 30px;
+}
+
+#skills p {
+    margin: 12px 0;
+}
+
+#skills strong {
+    color: #0f1f3d;
+}
     .project-card {
         padding: 20px;
     }
+}
+/* =========================
+   Project Result Highlight
+   ========================= */
+
+.project-card strong {
+    font-weight: 700;
+}
+
+.project-card p strong {
+    color: #0f1f3d;
 }
