@@ -111,7 +111,25 @@ a:hover {
     main {
         padding: 40px 6%;
     }
+.project-card {
+    background: #f5f7fb;
+    border: 1px solid #dfe5ee;
+    border-radius: 10px;
+    padding: 24px;
+    margin-top: 20px;
+}
 
+.project-card h3 {
+    margin-top: 0;
+}
+
+.project-card p {
+    margin-bottom: 12px;
+}
+
+.project-card strong {
+    color: #0f1f3d;
+}
     h2 {
         font-size: 26px;
     }
